@@ -1,0 +1,11 @@
+"use strict";
+var userName = "Haider Ali";
+var state = 4;
+var hcs = 3.4;
+var os = 4;
+var aoa = 4;
+var dbms = 3.6;
+var sumResult = hcs + os + dbms + aoa + state;
+console.log("Sum is " + sumResult);
+var divideSum = sumResult / 5;
+console.log("Toatal CGPA is " + divideSum);
